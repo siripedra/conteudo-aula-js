@@ -11,3 +11,9 @@ console.log(nome2);
 const times = ['São Paulo','Corinthians','Santos'];
 
 console.log(times);
+
+
+let primeiroNome = 'Richard';
+let primeironome = 'Kaio';
+
+console.log(primeiroNome)
